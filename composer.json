@@ -1,0 +1,22 @@
+{
+    "name": "exadra37-docker-images/nginx",
+    "description": "Docker Image for a Nginx.",
+    "keywords": [
+        "Exadra37",
+        "nginx",
+        "php",
+        "php7",
+        "docker",
+        "docker image"
+    ],
+    "homepage": "https://gitlab.com/exadra37-docker-images/web-servers/nginx",
+    "license": "GPL-3.0",
+    "authors": [
+        {
+            "name": "Exadra37",
+            "email": "exadra37@gmail.com",
+            "homepage": "https://exadra37.com",
+            "role": "Software Developer"
+        }
+    ]
+}
